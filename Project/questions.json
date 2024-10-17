@@ -1,0 +1,317 @@
+[
+    {
+        "question": "What was the name of the Prophet Adams Wife?",
+        "answers": [
+            {"text":"Hana", "correct": false},
+            {"text":"Hawa", "correct": true},
+            {"text":"Halwa", "correct": false},
+            {"text":"Khadija", "correct": false}
+        ]
+    },
+    {
+        "question": "What knowledge did Allah give prophet Adam after He created him?",
+        "answers": [
+            {"text":"To name all things around him", "correct": true},
+            {"text":"Raise people from the dead", "correct": false},
+            {"text":"To convince people to do bad", "correct": false},
+            {"text":"To make storms come", "correct": false}
+        ]
+    },
+    {
+       "question": "What did Allah tell the angels to do for Adam?",
+       "answers": [
+            {"text":"Disobey.", "correct": false},
+            {"text":"Give applause", "correct": false},
+            {"text":"Bow down and give respect", "correct": true},
+            {"text":"Bow and run away", "correct": false}
+        ]
+    },
+    {
+        "question": "Who refused to bow down to prophet Adam?",
+        "answers": [
+            {"text":"Angels", "correct": false},
+            {"text":"iblis", "correct": true},
+            {"text":"Humans", "correct": false},
+            {"text":"Other", "correct": false}
+        ]
+    },
+    {
+        "question": "What was the promise made by iblis to Allah (S.W.T)?",
+        "answers": [
+            {"text":"I will take the humans to the wrong path till the day of judgement", "correct": true},
+            {"text":"I will never forgive humans.", "correct": false},
+            {"text":"I will never stop obeying Allah.", "correct": false},
+            {"text":"I will help those who will ask for help.", "correct": false}
+        ]
+    },
+    {
+        "question": "Why were prophet Adam and Hawa banished to the Earth?",
+        "answers": [
+            {"text":"They ate a rotten apple.", "correct": false},
+            {"text":"They ate all the food and saved none for anyone else.", "correct": false},
+            {"text":"They ate the forbidden fruits.", "correct": true},
+            {"text":"They starved themselves", "correct": false}
+        ]
+    },
+    {
+        "question": "On which day did prophet Adam and Hawa descend to earth?",
+        "answers": [
+            {"text":"Friday", "correct": true},
+            {"text":"Saturday", "correct": false},
+            {"text":"During Eid", "correct": false},
+            {"text":"Sunday", "correct": false}
+        ]
+    },
+    {
+        "question": "Who urged prophet Adam and his wife to eat the fruit from the forbidden tree?",
+        "answers": [
+            {"text":"Allah", "correct": false},
+            {"text":"Humans", "correct": false},
+            {"text":"Angels", "correct": false},
+            {"text":"iblis", "correct": true}
+        ]
+    },
+    {
+        "question": "What did Allah create Adam from?",
+        "answers": [
+            {"text":"Clay", "correct": true},
+            {"text":"Rock", "correct": false},
+            {"text":"Sand", "correct": false},
+            {"text":"Wind", "correct": false}
+        ]
+    },
+    {
+        "question": "Where did Adam and his wife live?",
+        "answers": [
+            {"text":"A City", "correct": false},
+            {"text":"The Garden of Eden", "correct": true},
+            {"text":"A Masjid", "correct": false},
+            {"text":"A Small Town", "correct": false}
+        ]},
+    {
+        "question": "What tribe was the Prophet ﷺ in?",
+        "answers": [
+        {"text":"Rabi-al-awwal", "correct": false},
+        {"text":"Quraish", "correct": true},
+        {"text":"Yemen", "correct": false},
+        {"text":"Makka", "correct": false}
+    ]
+    },
+    {
+    "question": "Who was closest to the Prophet ﷺ?",
+    "answers": [
+        {"text":"Adu Baker al-siddeq", "correct": true},
+        {"text":"Other", "correct": false},
+        {"text":"Abu talib", "correct": false},
+        {"text":"Camel", "correct": false}
+    ]
+    },
+    {
+    "question": "Who was the Prophet ﷺ Muhammad's mother?",
+    "answers": [
+        {"text":"Aaminah", "correct": true},
+        {"text":"Khathija", "correct": false},
+        {"text":"Fatima", "correct": false},
+        {"text":"Hawa", "correct": false}
+    ]
+    },
+    {
+    "question": "What is the Prophets ﷺ grandfather?",
+    "answers": [
+        {"text":"Rabbi-al-awwal", "correct": false},
+        {"text":"Abd- Al rahman", "correct": false},
+        {"text":"Abd allah", "correct": false},
+        {"text":"Abd al Muttalib", "correct": true}
+    ]
+    },
+    {
+    "question": "Prophet ﷺ, peace be upon him, was born in ............",
+    "answers": [
+        {"text":"Mecca", "correct": true},
+        {"text":"Madina", "correct": false},
+        {"text":"Dammam", "correct": false},
+        {"text":"Dubai", "correct": false}
+    ]
+    },
+    {
+    "question": "The great grandfather of the Prophet ﷺ was?",
+    "answers": [
+        {"text":"Hashim ibn Abd Manaf", "correct": true},
+        {"text":"Abdul Muttalib", "correct": false},
+        {"text":"Abdullah ibn Abdul Muttalib", "correct": false},
+        {"text":"Abu Talib", "correct": false}
+    ]
+    },
+    {
+    "question": "'Aam al-Fil (the Year of the Elephant) was named after an attack launched by which of the following:",
+    "answers": [
+        {"text":"The Roman Empire", "correct": false},
+        {"text":"The Byzantine Empire", "correct": false},
+        {"text":"The Crusaders", "correct": false},
+        {"text":"An Abyssinian Ruler of Yemen", "correct": true}
+    ]
+    },
+    {
+    "question": "In which month did the attack during 'Aam al-Fil (Year of the Elephant) take place?",
+    "answers": [
+        {"text":"Ramadan", "correct": false},
+        {"text":"Muharram", "correct": true},
+        {"text":"Dhul Hijjah", "correct": false},
+        {"text":"Sha'ban", "correct": false}
+    ]
+    },
+    {
+    "question": "What was the name of the maid who helped to look after the Prophet Muhammad ﷺ as a child?",
+    "answers": [
+        {"text":"Barakah bint Tha'alaba (Umm Ayman)", "correct": true},
+        {"text":"Maimoonah bint Harith", "correct":false},
+        {"text":"Ruqayyah", "correct": false},
+        {"text":"Zaynab", "correct": false}
+    ]
+    },
+    {
+    "question": "In which month was the Prophet ﷺ born?",
+    "answers": [
+        {"text":"Safar", "correct": false},
+        {"text":"Rabi al-Awwal", "correct": true},
+        {"text":"Rajab", "correct": false},
+        {"text":"Ramadan", "correct": false}
+        ]
+    },
+
+    {
+    "question": "Where was Prophet Ibrahim (as) born?",
+    "answers": [
+        {"text":"The Kingdom of Saudi Arabia", "correct": false},
+        {"text":"The Kingdom of Egypt", "correct": false},
+        {"text":"The Kingdom of Babylon", "correct": true},
+        {"text":"Ethiopia", "correct": false}
+    ]
+    },
+    {
+    "question": "What did the people in Babylon do that really bothered and confused Prophet Ibrahim (as)?",
+    "answers": [
+        {"text":"They buried their daughters", "correct": false},
+        {"text":"They worshipped idols", "correct": true},
+        {"text":"They sacrificed their own people", "correct": false},
+        {"text":"They drank loads of alcohol", "correct": false}
+    ]
+    },
+    {
+    "question": "What was the name of Prophet Ibrahim’s father?",
+    "answers": [
+        {"text":"Aazar", "correct": true},
+        {"text":"Yusuf", "correct": false},
+        {"text":"Yaqub", "correct": false},
+        {"text":"Lut", "correct": false}
+    ]
+    },
+    {
+    "question": "What was the job of Ibrahim's father?",
+    "answers": [
+        {"text":"A blacksmith", "correct": false},
+        {"text":"A merchant", "correct": false},
+        {"text":"A governor", "correct": false},
+        {"text":"A sculptor of idols", "correct": true}
+    ]
+    },
+    {
+    "question": "One day whilst retreating in a cave, the Prophet Ibrahim (as) was contemplating about Allah - the One True God - while he observed the sky. Which of the following did the Prophet Ibrahim (as) NOT consider as a possible god?",
+    "answers": [
+        {"text":"The Sun", "correct": false},
+        {"text":"The Moon", "correct": false},
+        {"text":"The Mountains", "correct": true},
+        {"text":"A shining star", "correct": false}
+    ]
+    },
+    {
+    "question": "One day the Prophet Ibrahim (as) went into a temple and smashed the idols. What answer did he cleverly give when the people asked him if he was the one responsible?",
+    "answers": [
+        {"text":"The biggest idol did it - ask it!", "correct": true},
+        {"text":"He wasn't in the city at the time", "correct": false},
+        {"text":"His father did it", "correct": false},
+        {"text":"It happened by itself mysteriously", "correct": false}
+    ]
+    },
+    {
+    "question": "The disbelievers decided to punish Prophet Ibrahim (as) by throwing him into which of the following?",
+    "answers": [
+        {"text":"The middle of the sea", "correct": false},
+        {"text":"A burning fire", "correct": true},
+        {"text":"A deep well", "correct": false},
+        {"text":"A burning volcano", "correct": false}
+    ]
+    },
+    {
+    "question": "Which Angel came to Prophet Ibrahim (as) to offer him help while he was being thrown into the fire?",
+    "answers": [
+        {"text":"Mikaeel", "correct": false},
+        {"text":"Azraeel", "correct": false},
+        {"text":"Israfeel", "correct": false},
+        {"text":"Jibreel", "correct": true}
+    ]
+    },
+    {
+    "question": "What was the name of the king who challenged the beliefs of Prophet Ibrahim (as), and himself claimed to be a god?",
+    "answers": [
+        {"text":"Najashi", "correct": false},
+        {"text":"Nimrod", "correct": true},
+        {"text":"Farquad", "correct": false},
+        {"text":"Fir'awn", "correct": false}
+    ]
+    },
+    {
+    "question": "Who were the only 2 people in Babylon who believed in Ibrahim (as) after he was rejected by his people?",
+    "answers": [
+        {"text":"Hajar and her father", "correct": false},
+        {"text":"His father and his uncle", "correct": false},
+        {"text":"Sarah and Lut (as)", "correct": true},
+        {"text":"Ismaeel and Ishaq", "correct": false}
+    ]
+    },
+    {
+    "question": "Prophet Ibrahim (as) eventually married Hajar, who was given to Sarah as a maid in Egypt. She had a son with Prophet Ibrahim (as). What was their son’s name?",
+    "answers": [
+        {"text":"Ishaq", "correct": false},
+        {"text":"Ismaeel", "correct": true},
+        {"text":"Yaqub", "correct": false},
+        {"text":"Yusuf", "correct": false}
+    ]
+    },
+    {
+    "question": "Allah commanded Prophet Ibrahim (as) to travel with Hajar and their son to a valley in the Arabian Peninsula. What did he do with them there?",
+    "answers": [
+        {"text":"He built a house with them", "correct": false},
+        {"text":"He found a new family for them", "correct": false},
+        {"text":"He stayed with them", "correct": false},
+        {"text":"He left them there alone", "correct": true}
+    ]
+    },
+    {
+    "question": "Hajar frantically ran between two mountains to find food/drink for her baby. What were these two mountains called?",
+    "answers": [
+        {"text":"Tur and Nur", "correct": false},
+        {"text":"Uhud and Arafah", "correct": false},
+        {"text":"Safa and Marwah", "correct": true},
+        {"text":"Everest and Kilimanjaro", "correct": false}
+    ]
+    },
+    {
+    "question": "When Hajar was stranded in the Arabian Peninsula, what miracle occurred when an angel came and struck the ground?",
+    "answers": [
+        {"text":"Water gushed out", "correct": true},
+        {"text":"The ground split open", "correct": false},
+        {"text":"The two mountains crumbled", "correct": false},
+        {"text":"Food appeared", "correct": false}
+    ]
+    },
+    {
+    "question": "What did Allah (swt) command Prophet Ibrahim (as) to do as a test of his submission to Him, which was shown to him through a dream?",
+    "answers": [
+        {"text":"To build the Ka'bah", "correct": false},
+        {"text":"To sacrifice his son", "correct": true},
+        {"text":"To migrate to a new land", "correct": false},
+        {"text":"To lead his people in prayer", "correct": false}
+    ]
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "question": "What was the name of the Prophet Adams Wife?",
+        "answers": [
+            {"text":"Hana", "correct": false},
+            {"text":"Hawa", "correct": true},
+            {"text":"Halwa", "correct": false},
+            {"text":"Khadija", "correct": false}
+        ]
+    },
+    {
+        "question": "What knowledge did Allah give prophet Adam after He created him?",
+        "answers": [
+            {"text":"To name all things around him", "correct": true},
+            {"text":"Raise people from the dead", "correct": false},
+            {"text":"To convince people to do bad", "correct": false},
+            {"text":"To make storms come", "correct": false}
+        ]
+    },
+    {
+       "question": "What did Allah tell the angels to do for Adam?",
+       "answers": [
+            {"text":"Disobey.", "correct": false},
+            {"text":"Give applause", "correct": false},
+            {"text":"Bow down and give respect", "correct": true},
+            {"text":"Bow and run away", "correct": false}
+        ]
+    },
+    {
+        "question": "Who refused to bow down to prophet Adam?",
+        "answers": [
+            {"text":"Angels", "correct": false},
+            {"text":"iblis", "correct": true},
+            {"text":"Humans", "correct": false},
+            {"text":"Other", "correct": false}
+        ]
+    },
+    {
+        "question": "What was the promise made by iblis to Allah (S.W.T)?",
+        "answers": [
+            {"text":"I will take the humans to the wrong path till the day of judgement", "correct": true},
+            {"text":"I will never forgive humans.", "correct": false},
+            {"text":"I will never stop obeying Allah.", "correct": false},
+            {"text":"I will help those who will ask for help.", "correct": false}
+        ]
+    },
+    {
+        "question": "Why were prophet Adam and Hawa banished to the Earth?",
+        "answers": [
+            {"text":"They ate a rotten apple.", "correct": false},
+            {"text":"They ate all the food and saved none for anyone else.", "correct": false},
+            {"text":"They ate the forbidden fruits.", "correct": true},
+            {"text":"They starved themselves", "correct": false}
+        ]
+    },
+    {
+        "question": "On which day did prophet Adam and Hawa descend to earth?",
+        "answers": [
+            {"text":"Friday", "correct": true},
+            {"text":"Saturday", "correct": false},
+            {"text":"During Eid", "correct": false},
+            {"text":"Sunday", "correct": false}
+        ]
+    },
+    {
+        "question": "Who urged prophet Adam and his wife to eat the fruit from the forbidden tree?",
+        "answers": [
+            {"text":"Allah", "correct": false},
+            {"text":"Humans", "correct": false},
+            {"text":"Angels", "correct": false},
+            {"text":"iblis", "correct": true}
+        ]
+    },
+    {
+        "question": "What did Allah create Adam from?",
+        "answers": [
+            {"text":"Clay", "correct": true},
+            {"text":"Rock", "correct": false},
+            {"text":"Sand", "correct": false},
+            {"text":"Wind", "correct": false}
+        ]
+    },
+    {
+        "question": "Where did Adam and his wife live?",
+        "answers": [
+            {"text":"A City", "correct": false},
+            {"text":"The Garden of Eden", "correct": true},
+            {"text":"A Masjid", "correct": false},
+            {"text":"A Small Town", "correct": false}
+        ]}
+        ]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="twoPlayer.js"></script>
+    <title>Khalislam</title>
+    <link rel="shortcut icon" href="#" />
+  </head>
+  <body>
+    <div class="navbar">
+      <button onclick="document.location='index.html'" class="navbtn navmenu">
+        Back to Main Menu
+      </button>
+      <button class="navbtn navusername">
+        طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ
+      </button>
+      <img class="navbtn navlogo" src="khalislam logo2.png" alt="Khalislam" />
+    </div>
+    <div id="hud" class="hide">
+      <div id="hud-item">
+        <p class="hud-prefix">Question</p>
+        <h1 class="hud-main-text" id="questionCounter"></h1>
+      </div>
+      <div id="hud-item">
+        <p class="hud-prefix">Player 1 Score</p>
+        <h1 class="hud-main-text" id="p1score"></h1>
+      </div>
+      <div id="hud-item">
+        <p class="hud-prefix">Player 2 Score</p>
+        <h1 class="hud-main-text" id="p2score"></h1>
+      </div>
+      <div id="hud-item">
+        <p class="hud-prefix">Player</p>
+        <h1 class="hud-main-text" id="player"></h1>
+      </div>
+    </div>
+    <div id="topics" class="menu-btn-grid learnContainer">
+      <button class="catbtn topic">adam</button>
+      <button class="catbtn topic">muhammad</button>
+      <button class="catbtn topic">ibrahim</button>
+      <button class="catbtn topic">musa</button>
+    </div>
+    <div id="question" class="question hide">Question</div>
+    <div id="container" class="container hide">
+      <div id="question-container" class="hide">
+        <div id="answer-buttons" class="btn-grid">
+          <button class="btn">Answer 1</button>
+          <button class="btn">Answer 2</button>
+          <button class="btn">Answer 3</button>
+          <button class="btn">Answer 4</button>
+        </div>
+      </div>
+      <div id="tp-start-msg" class="text hide">
+        <h1>Two Player</h1>
+        <h2>Take turns answering questions to see whos more knowledgable!</h2>
+      </div>
+      <div id="end-msg" class="text hide">
+        <h1 id="win"></h1>
+        <h2 id="scores"></h2>
+      </div>
+      <div class="controls">
+        <button id="tp-start-btn" class="start-btn btn hide">Start</button>
+        <button id="next-btn" class="next-btn btn hide">Next</button>
+      </div>
+    </div>
+  </body>
+</html>

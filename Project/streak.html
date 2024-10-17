@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="streak.js"></script>
+    <title>Khalislam</title>
+    <link rel="shortcut icon" href="#" />
+  </head>
+  <body>
+    <div class="navbar">
+      <button onclick="document.location='index.html'" class="navbtn navmenu">
+        Back to Main Menu
+      </button>
+      <button class="navbtn navusername">
+        طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ
+      </button>
+      <img class="navbtn navlogo" src="khalislam logo2.png" alt="Khalislam" />
+    </div>
+    <div id="hud" class="hide">
+      <div id="hud-item">
+        <p class="hud-prefix">Question</p>
+        <h1 class="hud-main-text" id="questionCounter"></h1>
+      </div>
+      <div id="hud-item">
+        <p class="hud-prefix">Score</p>
+        <h1 class="hud-main-text" id="score"></h1>
+      </div>
+      <div id="hud-item">
+        <p class="hud-prefix">Wrong</p>
+        <h1 class="hud-main-text" id="wrong"></h1>
+      </div>
+    </div>
+    <div id="question" class="question hide">Question</div>
+    <div id="container" class="container">
+      <div id="question-container" class="hide">
+        <div id="answer-buttons" class="btn-grid">
+          <button class="btn">Answer 1</button>
+          <button class="btn">Answer 2</button>
+          <button class="btn">Answer 3</button>
+          <button class="btn">Answer 4</button>
+        </div>
+      </div>
+      <div id="streak-start-msg" class="text">
+        <h1>Streak</h1>
+        <h2>
+          Test yourself by answering questions until you get three wrong. Try to
+          get the highest score and get to the top of the leaderboard
+        </h2>
+      </div>
+      <div id="end-msg" class="text hide">
+        <h1>Well Done!</h1>
+        <h2 id="scored"></h2>
+      </div>
+      <div class="controls">
+        <button id="streak-start-btn" class="start-btn btn">Start</button>
+        <button id="next-btn" class="next-btn btn hide">Next</button>
+      </div>
+    </div>
+  </body>
+</html>

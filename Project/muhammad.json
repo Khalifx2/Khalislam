@@ -1,0 +1,93 @@
+[
+    {
+        "question": "What tribe was the Prophet ﷺ in?",
+        "answers": [
+        {"text":"Rabi-al-awwal", "correct": false},
+        {"text":"Quraish", "correct": true},
+        {"text":"Yemen", "correct": false},
+        {"text":"Makka", "correct": false}
+    ]
+    },
+    {
+    "question": "Who was closest to the Prophet ﷺ?",
+    "answers": [
+        {"text":"Adu Baker al-siddeq", "correct": true},
+        {"text":"Other", "correct": false},
+        {"text":"Abu talib", "correct": false},
+        {"text":"Camel", "correct": false}
+    ]
+    },
+    {
+    "question": "Who was the Prophet ﷺ Muhammad's mother?",
+    "answers": [
+        {"text":"Aaminah", "correct": true},
+        {"text":"Khathija", "correct": false},
+        {"text":"Fatima", "correct": false},
+        {"text":"Hawa", "correct": false}
+    ]
+    },
+    {
+    "question": "What is the Prophets ﷺ grandfather?",
+    "answers": [
+        {"text":"Rabbi-al-awwal", "correct": false},
+        {"text":"Abd- Al rahman", "correct": false},
+        {"text":"Abd allah", "correct": false},
+        {"text":"Abd al Muttalib", "correct": true}
+    ]
+    },
+    {
+    "question": "Prophet ﷺ, peace be upon him, was born in ............",
+    "answers": [
+        {"text":"Mecca", "correct": true},
+        {"text":"Madina", "correct": false},
+        {"text":"Dammam", "correct": false},
+        {"text":"Dubai", "correct": false}
+    ]
+    },
+    {
+    "question": "The great grandfather of the Prophet ﷺ was?",
+    "answers": [
+        {"text":"Hashim ibn Abd Manaf", "correct": true},
+        {"text":"Abdul Muttalib", "correct": false},
+        {"text":"Abdullah ibn Abdul Muttalib", "correct": false},
+        {"text":"Abu Talib", "correct": false}
+    ]
+    },
+    {
+    "question": "'Aam al-Fil (the Year of the Elephant) was named after an attack launched by which of the following:",
+    "answers": [
+        {"text":"The Roman Empire", "correct": false},
+        {"text":"The Byzantine Empire", "correct": false},
+        {"text":"The Crusaders", "correct": false},
+        {"text":"An Abyssinian Ruler of Yemen", "correct": true}
+    ]
+    },
+    {
+    "question": "In which month did the attack during 'Aam al-Fil (Year of the Elephant) take place?",
+    "answers": [
+        {"text":"Ramadan", "correct": false},
+        {"text":"Muharram", "correct": true},
+        {"text":"Dhul Hijjah", "correct": false},
+        {"text":"Sha'ban", "correct": false}
+    ]
+    },
+    {
+    "question": "What was the name of the maid who helped to look after the Prophet Muhammad ﷺ as a child?",
+    "answers": [
+        {"text":"Barakah bint Tha'alaba (Umm Ayman)", "correct": true},
+        {"text":"Maimoonah bint Harith", "correct":false},
+        {"text":"Ruqayyah", "correct": false},
+        {"text":"Zaynab", "correct": false}
+    ]
+    },
+    {
+    "question": "In which month was the Prophet ﷺ born?",
+    "answers": [
+        {"text":"Safar", "correct": false},
+        {"text":"Rabi al-Awwal", "correct": true},
+        {"text":"Rajab", "correct": false},
+        {"text":"Ramadan", "correct": false}
+        ]
+    }
+]
+    

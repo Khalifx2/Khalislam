@@ -1,0 +1,92 @@
+[
+    {
+    "question": "Where was Prophet Ibrahim (as) born?",
+    "answers": [
+        {"text":"The Kingdom of Saudi Arabia", "correct": false},
+        {"text":"The Kingdom of Egypt", "correct": false},
+        {"text":"The Kingdom of Babylon", "correct": true},
+        {"text":"Ethiopia", "correct": false}
+    ]
+    },
+    {
+    "question": "What did the people in Babylon do that really bothered and confused Prophet Ibrahim (as)?",
+    "answers": [
+        {"text":"They buried their daughters", "correct": false},
+        {"text":"They worshipped idols", "correct": true},
+        {"text":"They sacrificed their own people", "correct": false},
+        {"text":"They drank loads of alcohol", "correct": false}
+    ]
+    },
+    {
+    "question": "What was the job of Ibrahim's father, Aazar?",
+    "answers": [
+        {"text":"A blacksmith", "correct": false},
+        {"text":"A merchant", "correct": false},
+        {"text":"A governor", "correct": false},
+        {"text":"A sculptor of idols", "correct": true}
+    ]
+    },
+    {
+    "question": "One day whilst retreating in a cave, the Prophet Ibrahim (as) was contemplating about Allah - the One True God - while he observed the sky. Which of the following did the Prophet Ibrahim (as) NOT consider as a possible god?",
+    "answers": [
+        {"text":"The Sun", "correct": false},
+        {"text":"The Moon", "correct": false},
+        {"text":"The Mountains", "correct": true},
+        {"text":"A shining star", "correct": false}
+    ]
+    },
+    {
+    "question": "One day the Prophet Ibrahim (as) went into a temple and smashed the idols. What answer did he cleverly give when the people asked him if he was the one responsible?",
+    "answers": [
+        {"text":"The biggest idol did it - ask it!", "correct": true},
+        {"text":"He wasn't in the city at the time", "correct": false},
+        {"text":"His father did it", "correct": false},
+        {"text":"It happened by itself mysteriously", "correct": false}
+    ]
+    },
+    {
+    "question": "Which Angel came to Prophet Ibrahim (as) to offer him help while he was being thrown into the fire ;by the disbelievers, for smashing their idols?",
+    "answers": [
+        {"text":"Mikaeel", "correct": false},
+        {"text":"Azraeel", "correct": false},
+        {"text":"Israfeel", "correct": false},
+        {"text":"Jibreel", "correct": true}
+    ]
+    },
+    {
+    "question": "Allah commanded Prophet Ibrahim (as) to travel with Hajar and their son to a valley in the Arabian Peninsula. What did he do with them there?",
+    "answers": [
+        {"text":"He built a house with them", "correct": false},
+        {"text":"He found a new family for them", "correct": false},
+        {"text":"He stayed with them", "correct": false},
+        {"text":"He left them there alone", "correct": true}
+    ]
+    },
+    {
+    "question": "Hajar frantically ran between two mountains to find food/drink for her baby. What were these two mountains called?",
+    "answers": [
+        {"text":"Tur and Nur", "correct": false},
+        {"text":"Uhud and Arafah", "correct": false},
+        {"text":"Safa and Marwah", "correct": true},
+        {"text":"Everest and Kilimanjaro", "correct": false}
+    ]
+    },
+    {
+    "question": "When Hajar was stranded in the Arabian Peninsula, what miracle occurred when an angel came and struck the ground?",
+    "answers": [
+        {"text":"Water gushed out", "correct": true},
+        {"text":"The ground split open", "correct": false},
+        {"text":"The two mountains crumbled", "correct": false},
+        {"text":"Food appeared", "correct": false}
+    ]
+    },
+    {
+    "question": "What did Allah (swt) command Prophet Ibrahim (as) to do as a test of his submission to Him, which was shown to him through a dream?",
+    "answers": [
+        {"text":"To build the Ka'bah", "correct": false},
+        {"text":"To sacrifice his son", "correct": true},
+        {"text":"To migrate to a new land", "correct": false},
+        {"text":"To lead his people in prayer", "correct": false}
+    ]
+    }
+]
